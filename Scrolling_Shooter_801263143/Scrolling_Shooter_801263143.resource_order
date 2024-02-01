@@ -17,6 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"obj_island2","order":2,"path":"objects/obj_island2/obj_island2.yy",},
+    {"name":"obj_island1","order":1,"path":"objects/obj_island1/obj_island1.yy",},
+    {"name":"spr_island1","order":2,"path":"sprites/spr_island1/spr_island1.yy",},
+    {"name":"spr_island2","order":3,"path":"sprites/spr_island2/spr_island2.yy",},
+    {"name":"spr_island3","order":4,"path":"sprites/spr_island3/spr_island3.yy",},
+    {"name":"obj_island3","order":3,"path":"objects/obj_island3/obj_island3.yy",},
     {"name":"spr_plane","order":1,"path":"sprites/spr_plane/spr_plane.yy",},
   ],
 }
