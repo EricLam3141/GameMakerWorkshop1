@@ -1,13 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-
+var _restart = keyboard_check(ord("R"))
 
 if keyboard_check(vk_left) x -= 4
 if keyboard_check(vk_right) x += 4
 if keyboard_check(vk_up) vspeed -=1
 if keyboard_check(vk_down) vspeed +=1
-
+if keyboard_check_direct(_restart) game_restart()
 
 
 if not keyboard_check(vk_down) and not keyboard_check(vk_up) 
