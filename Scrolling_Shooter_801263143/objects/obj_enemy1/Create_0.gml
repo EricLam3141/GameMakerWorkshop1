@@ -4,4 +4,5 @@
 
 // Inherit the parent event
 event_inherited();
+extraScore = extraValue
 vspeed += extraSpeed  
