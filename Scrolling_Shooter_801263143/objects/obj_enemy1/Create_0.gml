@@ -6,3 +6,4 @@
 event_inherited();
 extraScore = extraValue
 vspeed += extraSpeed  
+scr_spawner()
