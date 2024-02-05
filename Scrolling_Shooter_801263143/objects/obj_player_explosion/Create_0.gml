@@ -4,3 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
+audio_play_sound(snd_explosion1,10,false)

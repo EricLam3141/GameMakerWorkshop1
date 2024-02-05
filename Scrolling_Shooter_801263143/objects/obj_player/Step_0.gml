@@ -12,8 +12,8 @@ alarm[0] = game_get_speed(gamespeed_fps) / 2
 }
 
 
-if keyboard_check(vk_left) x -= 4
-if keyboard_check(vk_right) x += 4
+if keyboard_check(vk_left) x -= 5
+if keyboard_check(vk_right) x += 5
 if keyboard_check(vk_up) vspeed -=1
 if keyboard_check(vk_down) vspeed +=1
 if keyboard_check_direct(_restart) game_restart()
